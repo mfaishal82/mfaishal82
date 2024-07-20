@@ -1,7 +1,6 @@
 # Hi there, I'm Faisal! 👋
 
 <img src="https://your-banner-image-url-here.jpg" alt="Banner" width="100%">
-![Banner](https://raw.githubusercontent.com/username/repository/main/path/to/your/banner-image.jpg)
 
 ## About Me
 
