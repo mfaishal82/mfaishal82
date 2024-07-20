@@ -1,6 +1,7 @@
 # Hi there, I'm Faisal! 👋
 
 <img src="https://your-banner-image-url-here.jpg" alt="Banner" width="100%">
+![Banner](https://raw.githubusercontent.com/username/repository/main/path/to/your/banner-image.jpg)
 
 ## About Me
 
@@ -16,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![And More!](https://img.shields.io/badge/-And%20More!-999999?style=flat-square&logo=github&logoColor=white)
 
 ...and various other web development technologies and tools.
 
