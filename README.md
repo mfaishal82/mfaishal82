@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👀 I'm interested in Web Development and Open Source Contribution.
+- 👀 I'm interested in Web and React-Native Development.
 - 🌱 I'm currently learning React.js and Node.js.
 - 💞️ I'm looking to collaborate on innovative web projects and educational content creation.
 - 📫 How to reach me: [Email](mailto:mf.ihbs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mfaishal82)
