@@ -1,6 +1,6 @@
 # Hi there, I'm Faisal! 👋
 
-<img src="https://your-banner-image-url-here.jpg" alt="Banner" width="100%">
+<img src="https://prnt.sc/lXwxf-ELRHXG" alt="Banner" width="100%">
 
 ## About Me
 
@@ -36,7 +36,7 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mf.ihbs)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfaishal82)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://mfaishal-site.web.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://mfaishal.my.id/)
 
 ---
 
